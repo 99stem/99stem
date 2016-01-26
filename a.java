@@ -1,5 +1,6 @@
 /*
-* Made by me 99stem for personal reasons
+* Made by me 99stem for personal reasons.
+* There might be problems with this code as its not tested.
 */
 
 import java.util.Scanner;
